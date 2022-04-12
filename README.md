@@ -1,5 +1,5 @@
-# Suren
-5 Reasons Why Food Delivery Services Must Have a Delivery App by 2022
+# 5 Reasons Why Food Delivery Services Must Have a Delivery App by 2022
+
 Did you know that online food delivery will reach $300 billion by 2025? A Corona pandemic is likely to increase the number even further. The reason is the popularity of online food-delivery services due to social distancing and pandemic situation . To thrive in this sector, you will need to harness technology. Therefore, we compiled five reasons why food delivery businesses need custom mobile applications. Now let's look at them!
 The emergence of technology has led to rapid changes in businesses. Businesses may also give mobile apps a high priority due to the increasing usage of mobile devices. Mobile apps are essential for food delivery and food ordering businesses, partly because of on-demand food delivery's rapid growth. Determining the size of the market for food delivery  system is crucial to the business. Online food delivery businesses' market size Statista reports:
 The segment's revenue in 2022 should reach USD 312,153 million.
